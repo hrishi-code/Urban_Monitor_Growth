@@ -1,0 +1,18 @@
+body {
+    background-color: #0e1117; /* Streamlit Dark Mode Color */
+    color: #e0e0e0;
+}
+
+.card {
+    background-color: #1f2937;
+    border: none;
+}
+
+/* Map Popups */
+.leaflet-popup-content-wrapper {
+    background: #1f2937;
+    color: white;
+}
+.leaflet-popup-tip {
+    background: #1f2937;
+}

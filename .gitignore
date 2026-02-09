@@ -1,0 +1,6 @@
+ee-key.json
+__pycache__/
+*.pyc
+urban_growth.db
+.DS_Store
+venv/
